@@ -33,3 +33,11 @@ Nigerian conditions. Source: Kaggle.
 The map requires GADM India Level-1 shapefiles 
 (gadm41_IND_1.*). Download from gadm.org and place in the 
 same folder as app.py.
+
+## GADM Shapefiles
+The map requires GADM India Level-1 boundary files.
+Download from: https://gadm.org/download_country.html
+- Select country: India
+- Select level: 1
+- Download the Shapefile format
+- Place all gadm41_IND_1.* files in the same folder as app.py
