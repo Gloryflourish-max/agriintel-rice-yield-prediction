@@ -1,0 +1,23 @@
+# Large data files — download separately (see README)
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.xlsx
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
